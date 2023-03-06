@@ -19,3 +19,5 @@ To get answers, I started this project. I have a "classic" IT background, so I c
 Walk with me first through some exercises to get going with an efficient learning environment.
 
 **[Open the learning notebook in Colab](https://colab.research.google.com/github/selfscrum/learning-ai/blob/main/learning.ipynb)**
+
+This project is a working documentation, not a complete tutorial. If you want to comment or have other ideas, open an issue or create a pull request :)
