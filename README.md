@@ -4,7 +4,7 @@ AI has become *the* conversation topic of these days. Sceptics see the doom of t
 
 Sure, it is nice to have images generated from prompts. I use this to revamp my old food blog with the ugly images. And surely it is interesting to have a conversation with ChatGPT about any topic you dare to ask. Even if we know that system is lying like a politician briefly before elections, it is also as charming and so we start dialogs about important and personal questions and begin to align with the answers given.
 
-All this AI craze lacks for me of one thing mostly: knowledge about what it really is and what it can really do.
+All this AI craze lacks for me of one thing mostly: knowledge about what it *really* is and what it can *really* do.
 
 I played around with ChatGPT and Midjourney (as advanced consumer) and Stable Diffusion (mostly following some youtube kids), learnt some of the buzz words (Model, inference, token, semantic vectors, etc.), tried (and succeeded with) some "naive integration" but the more I see, the more questions come up.
 
