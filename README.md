@@ -1,6 +1,6 @@
 # Hello AI
 
-AI has become *the* conversation topic of these days. Sceptics see the doom of the world rising, visionaires see old dreams come true quicker than expected, and most agree on "this will change everything".
+Generative AI has become *the* conversation topic of these days. Sceptics see the doom of the world rising, visionaires see old dreams come true quicker than expected, and most agree on "this will change everything".
 
 Sure, it is nice to have images generated from prompts. I use this to revamp my old food blog with the ugly images. And surely it is interesting to have a conversation with ChatGPT about any topic you dare to ask. Even if we know that system is lying like a politician briefly before elections, it is also as charming and so we start dialogs about important and personal questions and begin to align with the answers given.
 
