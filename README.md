@@ -1,5 +1,3 @@
-# learning-ai
-
 # Hello AI
 
 AI has become *the* conversation topic of these days. Sceptics see the doom of the world rising, visionaires see old dreams come true quicker than expected, and most agree on "this will change everything".
