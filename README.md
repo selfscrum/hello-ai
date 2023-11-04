@@ -18,6 +18,6 @@ To get answers, I started this project. I have a "classic" IT background, so I c
 
 Walk with me first through some exercises to get going with an efficient learning environment.
 
-**[Open the learning notebook in Colab](https://colab.research.google.com/github/selfscrum/learning-ai/blob/main/learning.ipynb)**. You need to set this up in Google. If you already have a Google account, you are done with a series of confirmations. Otherwise create that account first.
+**[Open the learning notebook in Colab](https://colab.research.google.com/github/selfscrum/hello-ai/blob/main/learning.ipynb)**. You need to set this up in Google. If you already have a Google account, you are done with a series of confirmations. Otherwise create that account first.
 
 This project is a working documentation, not a complete tutorial. If you want to comment or have other ideas, open an issue or create a pull request :)
